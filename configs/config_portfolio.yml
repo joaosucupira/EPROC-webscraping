@@ -1,2 +1,4 @@
 search_term: "processos"
+web_path: "https://processos.utfpr.edu.br/portfolio/index.php"
 title_xpath: "/html/body/div[1]/table/tbody/tr/td/table/tbody/tr/td[2]/h4/strong"
+tree1_xpath: "/html/body/div[2]/div[2]/ul[1]/ul/li[1]/a"
